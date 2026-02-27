@@ -1,2 +1,2 @@
-# ỨNG-DỤNG-PHƯƠNG-PHÁP-HỌC-MÁY-NHẬN-DẠNG-TIN-TỨC-GIẢ-MẠO
-#
+# ỨNG DỤNG PHƯƠNG PHÁP HỌC MÁY NHẬN DẠNG TIN TỨC GIẢ MẠO
+#Thực hiện nghiên cứu xây dựng hệ thống phân loại tin giả tiếng Việt bằng phương pháp Machine Learning và Deep Learning. Dự án bao gồm thu thập và xử lý 511 bài báo, thực hiện tiền xử lý dữ liệu (loại bỏ trùng lặp, chuẩn hóa văn bản, loại bỏ stopword), áp dụng TF-IDF để trích xuất đặc trưng và xây dựng các mô hình CNN, LSTM, BERT nhằm so sánh hiệu suất. Kết quả cho thấy mô hình CNN đạt độ chính xác cao nhất (~94%). Dữ liệu và kết quả được trực quan hóa thông qua WordCloud và Confusion Matrix để phân tích và đánh giá hiệu quả mô hình.
